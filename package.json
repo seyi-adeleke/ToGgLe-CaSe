@@ -1,0 +1,11 @@
+{
+  "name": "alternating-case",
+  "version": "1.0.0",
+  "description": "Converts strings to alternating case",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seyi Adeleke",
+  "license": "ISC"
+}
