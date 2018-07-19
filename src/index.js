@@ -1,4 +1,4 @@
-function alternate(text) {
+function toggle(text) {
     if (typeof text !== 'string') {
         return '';
     }
