@@ -4,7 +4,8 @@
   "description": "Converts strings to alternating case",
   "main": "build/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel ./src -d ./lib"
   },
   "author": "Seyi Adeleke",
   "license": "ISC",
