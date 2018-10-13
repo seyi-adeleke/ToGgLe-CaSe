@@ -1,4 +1,4 @@
-function toggle(text) {
+module.exports = function toggle(text) {
     if (typeof text !== 'string') {
         return '';
     }
@@ -9,6 +9,4 @@ function toggle(text) {
         return letter.toLowerCase();
     }).join('')
         .trim();
-}
-
-export default toggle;
+};
