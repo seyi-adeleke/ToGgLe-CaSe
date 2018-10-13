@@ -8,6 +8,11 @@ Convert a string to AlTeRnAtInG CaSe.
 ### Installation
 ` npm i toggle-case`
 
+### Usage
 
+```
+var toggleCase = require("toggle-case")
+console.log(toggleCase('h'));
+```
 ## License
 MIT
