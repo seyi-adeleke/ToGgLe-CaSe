@@ -2,7 +2,7 @@
   "name": "toggle-case",
   "version": "1.0.3",
   "description": "Converts strings to alternating case",
-  "main": "build/index.js",
+  "main": "lib/index.js",
   "homepage": "https://github.com/seyi-adeleke/ToGgLe-CaSe",
   "scripts": {
     "build": "babel ./src -d ./lib",
